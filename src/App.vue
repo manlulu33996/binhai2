@@ -27,6 +27,7 @@ export default {
     width: 10rem;
     left: 50%;
     margin-left:-5rem;
+    background: #f99;
 } 
 * {
     padding: 0;
